@@ -1,0 +1,3 @@
+[submodule "PyramidArrayTests/PyramidArrayTests"]
+	path = PyramidArrayTests/PyramidArrayTests
+	url = git@github.com:Audrey-505/PyramidArrayKata.git
