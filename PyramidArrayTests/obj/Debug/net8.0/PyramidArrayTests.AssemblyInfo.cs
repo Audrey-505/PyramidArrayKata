@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PyramidArrayTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2773a93f09e5536c6fe2f4ed2fa17b011682c0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PyramidArrayTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PyramidArrayTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
